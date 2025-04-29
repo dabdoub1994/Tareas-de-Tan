@@ -1,0 +1,16 @@
+*{
+    background-color: brown;
+}
+igual pueden poner esto /* Estilo para H1 */
+h1 {
+    color: rgb(183, 75, 75);
+    font-size: 36px;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  /* Estilo para H2 */
+  h2 {
+    color: blue;
+    font-size: 30px;
+    font-family: 'Georgia', serif;
+  }

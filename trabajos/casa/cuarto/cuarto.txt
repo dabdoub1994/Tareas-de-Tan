@@ -1,0 +1,4 @@
+
+<body>
+cama, tele, ropero, bano
+</body>
